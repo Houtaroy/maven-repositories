@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.koala</groupId>
+  <artifactId>koala-office</artifactId>
+  <versioning>
+    <versions>
+      <version>2022.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220726093427</lastUpdated>
+  </versioning>
+</metadata>
