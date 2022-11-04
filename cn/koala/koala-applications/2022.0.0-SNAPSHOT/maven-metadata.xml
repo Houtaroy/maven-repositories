@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.koala</groupId>
+  <artifactId>koala-applications</artifactId>
+  <version>2022.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20221104.093816</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20221104093816</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2022.0.0-20221104.093816-2</value>
+        <updated>20221104093816</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
