@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.koala</groupId>
+  <artifactId>koala-web-archetype</artifactId>
+  <versioning>
+    <versions>
+      <version>2022.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221108101846</lastUpdated>
+  </versioning>
+</metadata>

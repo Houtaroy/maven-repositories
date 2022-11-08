@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.koala</groupId>
+  <artifactId>koala-database-spring-boot-starter</artifactId>
+  <versioning>
+    <lastUpdated>20221108101846</lastUpdated>
+    <snapshot>
+      <timestamp>20221108.101846</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2022.0.1-20221108.101846-1</value>
+        <updated>20221108101846</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2022.0.1-20221108.101846-1</value>
+        <updated>20221108101846</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2022.0.1-20221108.101846-1</value>
+        <updated>20221108101846</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>2022.0.1-SNAPSHOT</version>
+</metadata>
