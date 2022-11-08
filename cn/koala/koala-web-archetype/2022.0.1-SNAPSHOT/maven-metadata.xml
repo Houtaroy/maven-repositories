@@ -3,27 +3,27 @@
   <groupId>cn.koala</groupId>
   <artifactId>koala-web-archetype</artifactId>
   <versioning>
-    <lastUpdated>20221108101846</lastUpdated>
+    <lastUpdated>20221108102840</lastUpdated>
     <snapshot>
-      <timestamp>20221108.101846</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20221108.102840</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2022.0.1-20221108.101846-1</value>
-        <updated>20221108101846</updated>
+        <value>2022.0.1-20221108.102840-2</value>
+        <updated>20221108102840</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2022.0.1-20221108.101846-1</value>
-        <updated>20221108101846</updated>
+        <value>2022.0.1-20221108.102840-2</value>
+        <updated>20221108102840</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>2022.0.1-20221108.101846-1</value>
-        <updated>20221108101846</updated>
+        <value>2022.0.1-20221108.102840-2</value>
+        <updated>20221108102840</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
