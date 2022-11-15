@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>cn.koala</groupId>
+    <artifactId>koala</artifactId>
+    <version>2022.0.2-SNAPSHOT</version>
+    <relativePath>../../pom.xml</relativePath>
+  </parent>
+  <groupId>cn.koala</groupId>
+  <artifactId>koala-checkstyle</artifactId>
+  <version>2022.0.2-SNAPSHOT</version>
+  <description>Koala CheckStyle</description>
+  <developers>
+    <developer>
+      <name>koala-projects</name>
+      <email>koala_projects@yeah.net</email>
+    </developer>
+  </developers>
+  <properties>
+    <maven.compiler.target>17</maven.compiler.target>
+    <java.version>17</java.version>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven-source-plugin.version>3.2.1</maven-source-plugin.version>
+    <maven-flatten-plugin.version>1.2.7</maven-flatten-plugin.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <revision>2022.0.2-SNAPSHOT</revision>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>com.alibaba.p3c</groupId>
+      <artifactId>p3c-pmd</artifactId>
+      <version>2.1.1</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
