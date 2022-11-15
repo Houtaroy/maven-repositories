@@ -3,16 +3,16 @@
   <groupId>cn.koala</groupId>
   <artifactId>koala-parent</artifactId>
   <versioning>
-    <lastUpdated>20221115124407</lastUpdated>
+    <lastUpdated>20221115130449</lastUpdated>
     <snapshot>
-      <timestamp>20221115.124407</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20221115.130449</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2022.0.2-20221115.124407-1</value>
-        <updated>20221115124407</updated>
+        <value>2022.0.2-20221115.130449-2</value>
+        <updated>20221115130449</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
