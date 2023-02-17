@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.koala</groupId>
+  <artifactId>koala-security-starter</artifactId>
+  <versioning>
+    <versions>
+      <version>2023.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230217042540</lastUpdated>
+  </versioning>
+</metadata>
