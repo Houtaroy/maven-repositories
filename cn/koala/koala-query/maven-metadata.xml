@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.koala</groupId>
+  <artifactId>koala-query</artifactId>
+  <versioning>
+    <versions>
+      <version>2023.1.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230727091453</lastUpdated>
+  </versioning>
+</metadata>
